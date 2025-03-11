@@ -1,17 +1,7 @@
 .venv/
-venv/
 
 .idea/
 .vscode/
-
-*.http
-
-.env
-
-.env.test
-.coverage
-htmlcov/
-coverage.xml
 
 __pycache__/
 
